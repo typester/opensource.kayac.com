@@ -8,12 +8,21 @@ Description
 
 nim is simple command line based contents generator.
 
-nim is small application 
+The goal of this project is simple but powerful static contents generator using from command line.
+
+Currentry this project is in early development stage, there's nothing release version and its implementation is very fruid.
+
 
 Download
 --------
 
-And development version and the sources are available at github:
+Nothing release version yet.
+
+
+Development
+-----------
+
+Development version and the sources are available at github:
 
     git clone git://github.com/typester/nim.git
 
