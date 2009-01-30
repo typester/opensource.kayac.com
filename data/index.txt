@@ -1,0 +1,34 @@
+Title: opensource.kayac.com
+Date: 2009-01-29T10:04:45+09:00
+
+Welcome to KAYAC Open Source.
+
+
+Projects
+--------
+
+* [kamaitachi](/projects/kamaitachi/)
+  * perl flash media server
+* [nim](/projects/nim/)
+  * minimal command-line based content generator
+
+
+About
+-----
+
+KAYAC Inc. is a company, webservice provider.
+
+KAYAC Open Source is a home for our many open source projects, it's a part of our lab's activities.
+
+ * [KAYAC Inc.](http://www.kayac.com) (Japanese)
+ * [KAYAC Labs. BM11](http://bm11.kayac.com) (Japanese)
+
+
+Contact
+-------
+
+If you have any question, find a bug or have something contribution code,
+please contact us (opensource at kayac.com)
+
+Patches are always welcome.
+
