@@ -1,4 +1,4 @@
-log_devel: debug
+log_level: debug
 
 output_dir: ./root
 data_dir: ./data
