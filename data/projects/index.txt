@@ -1,0 +1,7 @@
+Projects
+--------
+
+* [kamaitachi](/projects/kamaitachi/)
+  * perl flash media server
+* [nim](/projects/nim/)
+  * minimal command-line based content generator
