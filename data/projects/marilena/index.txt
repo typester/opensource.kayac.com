@@ -16,9 +16,15 @@ currently implemented features:
 Download
 --------
 
-marilena wiki at [SPARK Project, mash/Marilena](http://www.libspark.org/wiki/mash/Marilena).org/wiki/mash/Marilena
-source available: svn co http://www.libspark.org/as3/Marilena Marilena
-sample: [Marilena ObjectDetection in actionscript3 example: FaceDetection](http://maaash.jp/lab/Marilena_sample/)
+marilena wiki at [SPARK Project, mash/Marilena](http://www.libspark.org/wiki/mash/Marilena) (Japanese)
+
+source available:
+
+    svn co http://www.libspark.org/as3/Marilena Marilena
+
+sample:
+
+[Marilena ObjectDetection in actionscript3 example: FaceDetection](http://maaash.jp/lab/Marilena_sample/)
 
 
 Authors
