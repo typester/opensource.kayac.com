@@ -1,0 +1,35 @@
+Page-Title: marilena
+Date: 2009-02-03T17:50:00+09:00
+
+actionscript3 object detection
+
+Description
+-----------
+
+marilena is a port of OpenCV Object Detetion to Actionscript3
+currently implemented features:
+
+ * reads the same haar-cascade-xml as OpenCV.
+ * input an image, and outputs an array of flash.geom.Rectangle of face positions
+
+
+Download
+--------
+
+marilena wiki at [SPARK Project, mash/Marilena](http://www.libspark.org/wiki/mash/Marilena).org/wiki/mash/Marilena
+source available: svn co http://www.libspark.org/as3/Marilena Marilena
+sample: [Marilena ObjectDetection in actionscript3 example: FaceDetection](http://maaash.jp/lab/Marilena_sample/)
+
+
+Authors
+-------
+
+ * Masakazu Ohtsuka (mash)
+
+
+Copyright and License
+---------------------
+
+Copyright &#169; 2009 [KAYAC Inc.](http://www.kayac.com/) All rights reserved.
+
+BSD License
