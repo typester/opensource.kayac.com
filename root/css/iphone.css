@@ -52,6 +52,7 @@ pre code {
     font-family: Consolas, Monaco, "Courier New", monospace;
     letter-spacing: 1px;
     font-size: 13px;
+    word-wrap: break-word;
 }
 
 div#container > * {
