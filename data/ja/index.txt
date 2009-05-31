@@ -1,0 +1,29 @@
+Title: opensource.kayac.com
+Date: 2009-01-29T10:04:45+09:00
+
+Projects
+--------
+
+* [kamaitachi](projects/kamaitachi/)
+  * perl製のFlash Media Server (FMS)
+* [nim](projects/nim/)
+  * シンプルなコマンドラインベースのコンテンツジェネレータ
+* [marilena](projects/marilena/)
+  * OpenCV の AS3 移植
+
+
+About
+-----
+
+カヤックオープンソースは、カヤック社内で開発されたオープンソースプロジェクトを一覧するプレースホルダ-サイトです。
+
+オープンソースプロダクトの多くは BM11（ブッコミイレブン）というラボチームの活動の一環として作成しています。
+
+ * [面白法人カヤック](http://www.kayac.com)
+ * [BM11 ブッコミイレブン](http://bm11.kayac.com)
+
+
+Contact
+-------
+
+質問、問い合わせ、もしくはバグ報告、パッチの送付などありましたら、opensource at kayac.com までご連絡ください。

@@ -1,0 +1,44 @@
+Page-Title: nim
+Date: 2009-01-29T16:48:33+09:00
+
+シンプルなコマンドラインベースのコンテンツジェネレータ
+
+Description
+-----------
+
+nim はシンプルなコマンドラインベースのコンテンツジェネレータです。
+
+このプロジェクトは [blosxom](http://www.blosxom.com/), [plagger](http://plagger.org/), [qpsmtpd](http://smtpd.develooper.com/) などと同じようにすべての機能がプラグインとして実装されていて、それらを組み合わせることで様々なコンテンツに対応した万能の静的コンテンツのジェネレータを目指しています。
+
+
+Download
+--------
+
+現在安定リリース版はまだありません。
+
+
+Development
+-----------
+
+開発版はgithubにて入手できます。
+
+    git clone git://github.com/typester/nim.git
+
+
+Authors
+-------
+
+ * Daisuke Murase (typester)
+
+
+Copyright and License
+---------------------
+
+Copyright &#169; 2009 [KAYAC Inc.](http://www.kayac.com/) All rights reserved.
+
+This program is free software; you can redistribute
+it and/or modify it under the same terms as Perl itself.
+
+The full text of the license can be found in the
+LICENSE file included with this module.
+

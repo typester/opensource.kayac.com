@@ -1,6 +1,7 @@
+[%- SET lang = entry.path.match('^/ja') ? 'ja' : 'en' -%]
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
 <head>
 <title>[% entry.header('Page-Title') _ ' - ' | html IF entry.header('Page-Title') %]opensource.kayac.com</title>
 <link rel="stylesheet" type="text/css" media="screen and (min-device-width: 481px)" href="/css/default.css" />
@@ -17,9 +18,10 @@
 
 <div id="menu">
 <ul>
-  <li[% ' class="current"' IF entry.path == '/' %]><a href="/">Home</a></li>
-  <li[% ' class="current"' IF entry.path.match('^/projects') %]><a href="/projects/">Projects</a></li>
-[% IF 0 %]<li[% ' class="current"' IF entry.path.match('^/about') %]><a href="/about/">About</a></li>[% END -%]
+  <li[% ' class="current"' IF entry.path == '/' %]><a href="/">ホーム</a></li>
+  <li[% ' class="current"' IF entry.path.match('^/projects') %]><a href="/projects/">プロジェクト</a></li>
+[% IF 0 %]<li[% ' class="current"' IF entry.path.match('^/about') %]><a href="/about/">アバウト</a></li>[% END -%]
+  <li><a href="[% entry.path.replace('^/ja', '/en') %]">English</a></li>
 </ul>
 </div>
 

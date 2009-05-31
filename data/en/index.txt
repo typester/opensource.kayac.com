@@ -7,11 +7,11 @@ Welcome to KAYAC Open Source.
 Projects
 --------
 
-* [kamaitachi](/projects/kamaitachi/)
+* [kamaitachi](projects/kamaitachi/)
   * perl flash media server
-* [nim](/projects/nim/)
+* [nim](projects/nim/)
   * minimal command-line based content generator
-* [marilena](/projects/marilena/)
+* [marilena](projects/marilena/)
   * actionscript3 object detection
 
 

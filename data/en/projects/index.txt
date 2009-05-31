@@ -1,9 +1,9 @@
 Projects
 --------
 
-* [kamaitachi](/projects/kamaitachi/)
+* [kamaitachi](kamaitachi/)
   * perl flash media server
-* [nim](/projects/nim/)
+* [nim](nim/)
   * minimal command-line based content generator
-* [marilena](/projects/marilena/)
+* [marilena](marilena/)
   * actionscript3 object detection
