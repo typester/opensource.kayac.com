@@ -8,7 +8,7 @@ Description
 
 Ark は perl で書かれたウェブアプリケーションフレームワーク（WAF）です。
 
-Ark はおなじく perl 製のフレームワークである L<Catalyst> を参考に開発されており、その多くの特徴はそのまま引き継いでいます。
+Ark はおなじく perl 製のフレームワークである [Catalyst](http://www.catalystframework.org/) を参考に開発されており、その多くの特徴はそのまま引き継いでいます。
 
 そのため Catalyst の経験のある開発者であればすぐに使い始めることができるでしょう。
 
