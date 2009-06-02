@@ -25,7 +25,7 @@ Download
 
 現在の最新バージョンは 0.1rc1 です。以下のURLからダウンロードすることができます。
 
-[Ark version 0.1rc1](http://cloud.github.com/downloads/typester/ark-perl/Ark-0.01.tar.gz)
+[Ark version 0.1rc1](http://cloud.github.com/downloads/typester/ark-perl/Ark-0.001000_001.tar.gz)
 
 Install and how to use
 ----------------------

@@ -16,7 +16,7 @@ Download
 
 Latest version is 0.1 (rc1). There's no stable version yet.
 
-[Ark version 0.1rc1](http://cloud.github.com/downloads/typester/ark-perl/Ark-0.01.tar.gz)
+[Ark version 0.1rc1](http://cloud.github.com/downloads/typester/ark-perl/Ark-0.001000_001.tar.gz)
 
 
 Development
